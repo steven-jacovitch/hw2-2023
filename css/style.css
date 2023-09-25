@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, Verdana;
+    background: #000000;
+    color: #ffffff;
+    margin: 20px, 20px, 0px, 20px;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    padding: 15px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #0D0D0D
+}
+
+p {
+    font-size: 24px;
+    padding: 10px, 0px, 0px, 10px;
+}
+
+img {
+    width: 250px;
+    display:block;
+    margin: auto;
+    border: dashed 10px #ffffff;
+}
+
+div {
+    padding: 20px;
+    border: solid 3px #ffffff;
+    height: auto;
+    min-height: 125px;
+}
+
+.introduction {
+    border-radius: 15px;
+    margin: 15px, 0px, 0px, 0px;
+    line-height: 2;
+}
+
+.red {
+    background: #ff0000;
+    text-align: right;
+    margin: 0px, 0px, 0px, 50px;
+    border-bottom: solid 2px #ffffff;
+    border-left: solid 5px #ffffff;
+    border-right: solid 0px #ffffff;
+    border-top: solid 0px #ffffff;
+}
+
+.blue {
+    background: #0000ff;
+    text-align: left;
+    margin: 0px, 50px, 0px, 0px;
+    border-bottom: solid 0px #ffffff;
+    border-left: solid 0px #ffffff;
+    border-right: solid 5px #ffffff;
+    border-top: solid 2px #ffffff;
+}
+
+.blue p {
+    color: #C4C4C4;
+}
+
+.blue h2 {
+    color: #C4C4C4;
+}
+
+.yellow {
+    background: #ffff00;
+    text-align: right;
+    margin: 0px, 0px, 0px, 50px;
+    border-bottom: solid 2px #ffffff;
+    border-left: solid 5px #ffffff;
+    border-right: solid 0px #ffffff;
+    border-top: solid 0px #ffffff;
+}
+
+.yellow p {
+    color: #707070;
+}
+
+.green {
+    background: #008500;
+    text-align: left;
+    margin: 0px, 50px, 0px, 0px;
+    border-bottom: solid 0px #ffffff;
+    border-left: solid 0px #ffffff;
+    border-right: solid 5px #ffffff;
+    border-top: solid 2px #ffffff;
+}
+
+footer {
+    background:linear-gradient(to right, #000000,  #0000ff 25%, #0066ff 70%, #000000);
+    border: solid 5px #ffffff;
+}
+
+footer p {
+    text-align: right;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
