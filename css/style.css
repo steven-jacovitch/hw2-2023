@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 42px;
     text-align: center;
     padding: 15px;
 }
@@ -103,4 +103,5 @@ footer p {
     font-size: 20px;
     padding-top: 15px;
     padding-bottom: 15px;
+    padding-right: 15px;
 }
